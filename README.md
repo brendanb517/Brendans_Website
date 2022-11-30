@@ -1,1 +1,2 @@
 Hey there. I'm Brendan Baird, and this is my personal website!
+I'm making this as part of the curriculum in the Pre-Work phase of my Software Engineering cohort at Flatiron School. It's really cool that I've learned enough to do this even before the classes have even begun!
